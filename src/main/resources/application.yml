@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: micronautDemo
+
+cars:
+  ford:
+    enabled: true
+    cylinders: 8
+  subaru:
+    enabled: false
+    cylinders: 4
